@@ -1,0 +1,86 @@
+//Limbus Profile
+//This profile lots all Ancient Beastcoins
+
+//if item is 1875 then lot //Lot Ancient Beastcoins
+
+// ========== Artifact Upgrade Items ===========
+
+// ===== WAR =====
+//if item is 1930 then pass //Ecarlate Cloth
+//if item is 1931 then pass //Argyro Rivet
+
+// ===== MNK =====
+//if item is 1932 then pass //Ut. Gold Thread
+//if item is 1933 then pass //Ancient Brass
+
+// ===== WHM =====
+//if item is 1934 then pass //Benedict Silk
+//if item is 1935 then pass //Benedict Yarn
+
+// ===== BLM =====
+//if item is 1936 then pass //Diabolic Silk
+//if item is 1937 then pass //Diabolic Yarn
+
+// ===== RDM ===== 
+//if item is 1938 then pass //Rby. Silk Thread
+//if item is 1939 then pass //Cardinal Cloth
+
+// ===== THF ===== 
+//if item is 1940 then pass //Supple Skin
+//if item is 1941 then pass //Light Filament
+
+// ===== PLD ===== 
+//if item is 1942 then pass //Snowy Cermet
+//if item is 1943 then pass //White Rivet
+
+// ===== DRK ===== 
+//if item is 1944 then pass //Dark Orichalcum
+//if item is 1945 then pass //Black Rivet
+
+// ===== BST ===== 
+//if item is 1946 then pass //Smalt Leather
+//if item is 1947 then pass //Fetid Lanolin
+
+// ===== BRD ===== 
+//if item is 1948 then pass //Coiled Yarn
+//if item is 1949 then pass //Brown Doeskin
+
+// ===== RNG ===== 
+//if item is 1950 then pass //Chameleon Yarn
+//if item is 1951 then pass //Charcoal Cotton
+
+// ===== SAM ===== 
+//if item is 1952 then pass //Scarlet Odoshi
+//if item is 1953 then pass //Kurogane
+
+// ===== NIN ===== 
+//if item is 1954 then pass //Plaited Cord
+//if item is 1955 then pass //Ebony Lacquer
+
+// ===== DRG ===== 
+//if item is 1956 then pass //Cbl. Myth. Sheet
+//if item is 1957 then pass //Blue Rivet
+
+// ===== SMN ===== 
+//if item is 1958 then pass //Glittering Yarn
+//if item is 1959 then pass //Astral Leather
+
+// ===== BLU ===== 
+//if item is 2656 then pass //Luminian Thread
+//if item is 2657 then pass //Flameshun Cloth
+
+// ===== COR ===== 
+//if item is 2658 then pass //Silkworm Thread
+//if item is 2659 then pass //Canvas Toile
+
+// ===== PUP ===== 
+//if item is 2660 then pass //Pantin Wire
+//if item is 2661 then pass //Corduroy Cloth
+
+// ===== DNC ===== 
+//if item is 2714 then pass //Filet Lace
+//if item is 2715 then pass //Gold Stud
+
+// ===== SCH ===== 
+//if item is 2716 then pass //Brilliantine
+//if item is 2717 then pass //Electrum Stud

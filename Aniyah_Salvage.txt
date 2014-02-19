@@ -1,0 +1,117 @@
+// ====== Beastmen's Seals =====
+//if item is 1126 then lot // lot Beastmen's Seal
+//if item is 1127 then lot // lot Kindred's Seal
+//if item is 2955 then lot // lot Kindred's Crest
+//if item is 2956 then lot // lot High Kindred's Crest
+
+// ====== Salvage Currency =====
+//if item is 2488 then lot  // lot Alexandrite
+//if item is 5735 then lot // lot Ctn. Purse (Alx.)
+//if item is 5736 then lot // lot Lin. Purse (Alx.)
+
+// ========== Salvage Armor Sets ==========
+
+// ===== Ares  ===== 
+//if item is 16085 then pass // Enyo's Mask
+//if item is 16086 then lot // Phobos's Mask
+//if item is 16087 then lot // Deimos's Mask
+
+//if item is 14547 then lot // Enyo's Breastplate
+//if item is 14548 then lot // Phobos's Cuirass
+//if item is 14549 then lot // Deimos's Cuirass
+
+//if item is 14962 then lot // Enyo's Gauntlets
+//if item is 14963 then lot // Phobos's Gauntlets
+//if item is 14964 then lot // Deimos's Gauntlets
+
+//if item is 15626 then pass // Enyo's Cuisses
+//if item is 15627 then lot // Phobos's Cuisses
+//if item is 15628 then lot // Deimos's Cuisses
+
+//if item is 15712 then pass // Enyo's Leggings
+//if item is 15713 then lot // Phobos's Sabatons
+//if item is 15714 then lot // Deimos's Leggings
+
+// ===== Skadi ===== 
+//if item is 16089 then lot // Njord's Mask
+//if item is 16090 then lot // Freyr's Mask
+//if item is 16091 then lot // Freya's Mask
+
+//if item is 14551 then lot // Njord's Jerkin
+//if item is 14552 then lot // Freyr's Jerkin
+//if item is 14553 then lot // Freya's Jerkin
+
+////if item is 14966 then pass // Njord's Gloves
+//if item is 14967 then lot // Freyr's Gloves
+//if item is 14968 then lot // Freya's Gloves
+
+//if item is 15630 then lot // Njord's Trousers
+//if item is 15631 then lot // Freyr's Trousers
+//if item is 15632 then lot // Freya's Trousers
+
+//if item is 15716 then lot // Njord's Ledelsens
+//if item is 15717 then lot // Freyr's Ledelsens
+//if item is 15718 then lot // Freya's Ledelsens
+
+// ===== Usukane ===== 
+//if item is 16093 then pass // Hoshikazu Hachimaki
+//if item is 16094 then lot // Tsukikazu Jinpachi
+//if item is 16095 then lot // Hikazu Kabuto
+
+//if item is 14555 then lot // Hoshikazu Gi
+//if item is 14556 then lot // Tsukikazu Togi
+//if item is 14557 then lot // Hikazu Hara-ate
+
+//if item is 14970 then lot // Hoshikazu Tekko
+//if item is 14971 then lot // Tsukikazu Gote
+//if item is 14972 then lot // Hikazu Gote
+
+//if item is 15634 then lot // Hoshikazu Hakama
+//if item is 15635 then lot // Tsukikazu Haidate
+//if item is 15636 then lot // Hikazu Hakama
+
+//if item is 15720 then lot // Hoshikazu Kyahan
+//if item is 15721 then lot // Tsukikazu Sune-ate
+//if item is 15722 then lot // Hikazu Sune-ate
+
+// ===== Marduk ===== 
+//if item is 16097 then lot // Anu's Tiara
+//if item is 16098 then pass // Ea's Tiara
+//if item is 16099 then lot // Enlil's Tiara
+
+//if item is 14559 then pass // Anu's Doublet
+//if item is 14560 then pass // Ea's Doublet
+//if item is 14561 then lot // Enlil's Gambison
+
+//if item is 14974 then pass // Anu's Gages
+//if item is 14975 then pass // Ea's Dastanas
+//if item is 14976 then pass // Enlil's Kolluks
+
+//if item is 15638 then lot // Anu's Brais
+//if item is 15639 then lot // Ea's Brais
+//if item is 15640 then lot // Enlil's Brayettes
+
+//if item is 15724 then pass // Anu's Gaiters
+//if item is 15725 then lot // Ea's Crackows
+//if item is 15726 then pass // Enlil's Crackows
+
+// ===== Morrigan ===== 
+//if item is 16101 then pass // Nemain's Crown
+//if item is 16102 then lot // Bodb's Crown
+//if item is 16103 then lot // Macha's Crown
+
+//if item is 14563 then pass // Nemain's Robe
+//if item is 14564 then pass // Bodb's Robe
+//if item is 14565 then pass // Macha's Coat
+
+//if item is 14978 then lot // Nemain's Cuffs
+//if item is 14979 then lot // Bodb's Cuffs
+//if item is 14980 then lot // Macha's Cuffs
+
+//if item is 15642 then pass // Nemain's Slops
+//if item is 15643 then lot // Bodb's Slops
+//if item is 15644 then lot // Macha's Slops
+
+//if item is 15728 then pass // Nemain's Sabots
+//if item is 15729 then pass // Bodb's Pigaches
+//if item is 15730 then pass // Macha's Pigaches

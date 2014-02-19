@@ -1,0 +1,7 @@
+if item is not 1126,1127,2955,2956,2957 then pass
+
+if item is 1126 then lot // Beastman seal
+if item is 1127 then lot // Kindred Seal
+if item is 2955 then lot // kindred crest
+if item is 2956 then lot // High Kindred Crest
+if item is 2957 then lot // Sacred Kindred Crest

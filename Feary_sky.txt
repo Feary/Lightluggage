@@ -1,0 +1,86 @@
+
+// ===== Crystal ===== 
+if item is 4096 then pass // pass Fire Crystal
+if item is 4099 then pass // pass Earth Crystal
+if item is 4101 then pass // pass Water Crystal
+if item is 4098 then pass // pass Wind Crystal
+if item is 4097 then pass // pass Ice Crystal
+if item is 4100 then pass // pass Lightning Crystal
+if item is 4102 then pass // pass Light Crystal
+if item is 4103 then pass // pass Dark Crystal
+
+// ===== Cluster =====
+//if item is 4104 then pass // pass Fire Cluster
+//if item is 4107 then pass // pass Earth Cluster
+//if item is 4109 then pass // pass Water Cluster
+//if item is 4106 then pass // pass Wind Cluster
+//if item is 4105 then pass // pass Ice Cluster
+//if item is 4108 then pass // pass Lightning Cluster
+//if item is 4110 then pass // pass Light Cluster
+//if item is 4111 then pass // pass Dark Cluster
+
+// ===== Sky Gods ===== 
+if item is 12296 then pass // genbu shield
+if item is 12434 then pass // genbu kabuto
+if item is 12690 then pass // Seiryu's kote
+if item is 17659 then pass // seiryu's sword
+if item is 18043 then pass // suzaku's scythe
+if item is 12946 then pass // suzaku's sune-ate
+if item is 12818 then pass // byakko's haidate
+if item is 18198 then pass // byakko's axe
+//if item is 12562 then pass // kirin's osode
+if item is 17567 then pass // kirin's pole
+
+//if item is 1405 then pass // seal of seiryu
+//if item is 1407 then pass // seal of suzaku
+//if item is 1406 then pass // seal of byakko
+//if item is 1404 then pass // seal of genbu
+
+// ===== Abjurations ===== 
+if item is 1340 then pass // neptunal body
+if item is 1341 then pass // neptunal hands
+if item is 1343 then pass // neptunal feet
+
+if item is 1337 then pass // wyrmal legs
+if item is 1336 then pass // wyrmal hands
+if item is 1338 then pass // wrymal feet
+
+if item is 1327 then pass // aquarian legs
+if item is 1324 then pass // aquarian head
+if item is 1326 then pass // aquarian hands
+
+if item is 1323 then pass //earthen feet
+if item is 1319 then pass //earthen head
+
+if item is 1317 then pass //dryadic legs
+if item is 1314 then pass //dryadic head 
+if item is 1316 then pass //dryadic hands
+if item is 1315 then pass //dryadic body
+
+if item is 1331 then pass //martial hands
+if item is 1329 then pass //martial head
+
+//if item is 1442 then pass //oblation (ambrosia)
+if item is 1441 then pass //libation (amirata)
+
+// ===== Pop items ===== 
+//if item is 1422 then pass //gem of the west
+//if item is 1418 then pass //gem of the east
+//if item is 1420 then pass //gem of the south
+//if item is 1424 then pass //gem of the north
+
+//if item is 1421 then pass //summerstone
+//if item is 1425 then pass //winterstone
+//if item is 1423 then pass //authmn stone
+//if item is 1419 then pass //spring stone
+
+//if item is 2388 then pass //diorite
+//if item is 1195 then pass //ro'maeve water
+
+if item is 18163 then pass //zephyr
+if item is 18161 then pass //artic wind
+if item is 18164 then pass //antarctic wind
+if item is 18162 then pass //east wind
+
+//test 
+if item is 1430 then pass //rdm test

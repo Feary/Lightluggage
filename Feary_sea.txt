@@ -1,0 +1,12 @@
+// Feary's Sea Profile 
+
+
+
+// Jailer of Love
+//if item is 1911 then lot // Aura of Adulation Novio earring
+//if item is 1912 then lot // Aura Of Voracity Novia Earring
+
+// AV
+//if item is 1914 then lot // Sin Of Indolence Aurole
+
+//if item is 1919 then lot // sin of intemp minerva

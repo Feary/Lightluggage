@@ -1,0 +1,29 @@
+//Default Profile
+//Empty to prevent unexpected behavior at bad times
+
+// Tests
+if item is 1427,1428,1429,1430,1431,1432,1433,1434,1435,1436,1437,1438,1439,1440,1441 then pass //Testimonies
+// mandy budd
+if item is 4368 then pass
+if item is 4369 then pass
+if item is 2567 the pass
+
+//Geodes
+//if item is 3297 then lot // flame geode
+//if item is 3298 then lot // Snow geode
+//if item is 3299 then lot // Breeze geode
+//if item is 3300 then lot // Soil geode
+//if item is 3301 then lot // thunder geode
+//if item is 3302 then lot // aqua geode
+//if item is 3303 then lot // light geode
+//if item is 3304 then lot // shadow geode
+
+//HQ ites
+//if item is 3520 then lot // ifirite
+//if item is 3521 then lot // Shivite
+//if item is 3522 then lot // Garudite
+//if item is 3523 then lot // Titanite
+//if item is 3524 then lot // ramuite
+//if item is 3525 then lot // leviatite
+//if item is 3526 then lot // carbite
+//if item is 3527 then lot // fenrite

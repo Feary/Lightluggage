@@ -1,0 +1,164 @@
+// ====== Beastmen's Seals =====
+//if item is 1126 then lot // lot Beastmen's Seal
+//if item is 1127 then lot // lot Kindred's Seal
+//if item is 2955 then lot // lot Kindred's Crest
+//if item is 2956 then lot // lot High Kindred's Crest
+
+// ====== Salvage Currency =====
+//if item is 2488 then lot // lot Alexandrite
+//if item is 5735 then lot // lot Ctn. Purse (Alx.)
+//if item is 5736 then lot // lot Lin. Purse (Alx.)
+
+// ========== Salvage Armor Sets ==========
+if item is 2375 then pass // Zhayolm Card morrigan ares
+if item is 2376 then pass // Arrapago Card - 
+if item is 2377 then pass // Bhaflau Card - usu body
+//if item is 2378 then pass // Silver sea card - skadi body
+
+// ===== Ares  ===== 
+if item is 16085 then pass // Enyo's Mask - Silver Sea Remnants -Gyroscopic Gears
+if item is 16086 then pass // Phobos's Mask - Bhaflau Remnants - Long-Bowed Chariot (NM)
+if item is 16087 then pass // Deimos's Mask - Arrapago Remnants - Deviate Bhoot
+
+if item is 14547 then pass // Enyo's Breastplate - Silver Sea Remnants - Don Poroggo (NM) (Bhaf Card)
+if item is 14548 then pass // Phobos's Cuirass - Bhaflau Remnants - Long-Bowed Chariot (NM)
+if item is 14549 then pass // Deimos's Cuirass - Arrapago Remnants - Qiqirn Astrologer
+
+if item is 14962 then pass // Enyo's Gauntlets - Zhayolm Remnants - Poroggo Madame
+if item is 14963 then pass // Phobos's Gauntlets - Silver Sea Remnants - Long-Armed Chariot (NM)
+if item is 14964 then pass // Deimos's Gauntlets -  Bhaflau Remnants - 3rd Floor rampart
+
+if item is 15626 then pass // Enyo's Cuisses - Arrapago Remnants - Gear
+//if item is 15627 then lot // Phobos's Cuisses - Zhayolm Remnants - Battleclad Chariot (NM)
+if item is 15628 then pass // Deimos's Cuisses - Silver Sea Remnants - Gyroscopic Gears
+
+if item is 15712 then pass // Enyo's Leggings - Bhaflau Remnants - Random mobs
+if item is 15713 then pass // Phobos's Sabatons - Arrapago Remnants - Armored Chariot (NM)
+if item is 15714 then pass // Deimos's Leggings - Zhayolm Remnants - Poroggo Madame 6th Floor (NM)
+
+// ===== Skadi ===== 
+if item is 16089 then pass // Njord's Mask - Zhayolm Remnants - Poroggo Madame
+if item is 16090 then pass // Freyr's Mask - Silver Sea Remnants - Long-Armed Chariot (NM)
+if item is 16091 then pass // Freya's Mask -  Bhaflau Remnants - 3rd Floor rampart
+
+if item is 14551 then pass // Njord's Jerkin - Zhayolm Remnants - Jakko (NM)
+if item is 14552 then pass // Freyr's Jerkin - Silver Sea Remnants - Long-Armed Chariot (NM)
+if item is 14553 then pass // Freya's Jerkin - Bhaflau Remnants - 4th Floor rampart
+
+if item is 14966 then pass // Njord's Gloves - Arrapago Remnants - Gear
+if item is 14967 then pass // Freyr's Gloves - Zhayolm Remnants - Battleclad Chariot (NM)
+if item is 14968 then pass // Freya's Gloves - Silver Sea Remnants - Gyroscopic Gear (NM)
+
+if item is 15630 then pass // Njord's Trousers - Bhaflau Remnants - Random mobs
+if item is 15631 then pass // Freyr's Trousers - Arrapago Remnants - Armored Chariot (NM)
+if item is 15632 then pass // Freya's Trousers - Zhayolm Remnants - Poroggo Madame
+
+if item is 15716 then pass // Njord's Ledelsens - Silver Sea Remnants - Dekka (NM)
+if item is 15717 then pass // Freyr's Ledelsens - Bhaflau Remnants - Long-Bowed Chariot (NM)
+if item is 15718 then pass // Freya's Ledelsens - Arrapago Remnants - Archaic Chariot (NM)
+
+// ===== Usukane ===== 
+if item is 16093 then pass // Hoshikazu Hachimaki - Arrapago Remnants - Gear
+if item is 16094 then pass // Tsukikazu Jinpachi - Zhayolm Remnants - Battleclad Chariot (NM)
+if item is 16095 then pass // Hikazu Kabuto - Silver Sea Remnants - Hammerblow Majanun (NM) 
+
+if item is 14555 then pass // Hoshikazu Gi - Arrapago Remnants - Princess Pudding
+//if item is 14556 then lot // Tsukikazu Togi - Zhayolm Remnants - Battleclad Chariot (NM)
+if item is 14557 then pass // Hikazu Hara-ate - Silver Sea Remnants - Citadel Chelonian (NM)
+
+if item is 14970 then pass // Hoshikazu Tekko - Arrapago Remnants - Gear
+if item is 14971 then pass // Tsukikazu Gote - Arrapago Remnants - Armored Chariot (NM)
+if item is 14972 then pass // Hikazu Gote - Zhayolm Remnants - Poroggo Madame
+
+if item is 15634 then pass // Hoshikazu Hakama - Silver Sea Remnants - Powderkeg Yanadahn (NM)
+if item is 15635 then pass // Tsukikazu Haidate - Bhaflau Remnants - Long-Bowed Chariot (NM)
+if item is 15636 then pass // Hikazu Hakama - Arrapago Remnants - Archaic Chariot (NM)
+
+if item is 15720 then pass // Hoshikazu Kyahan - Zhayolm Remnants - Poroggo Madame
+if item is 15721 then pass // Tsukikazu Sune-ate - Silver Sea Remnants - Long-Armed Chariot (NM)
+if item is 15722 then pass // Hikazu Sune-ate - Bhaflau Remnants - 4th Floor rampart
+
+// ===== Marduk ===== 
+if item is 16097 then pass // Anu's Tiara - Bhaflau Remnants - Random mobs
+//if item is 16098 then pass // Ea's Tiara - Arrapago Remnants - Armored Chariot (NM)
+if item is 16099 then pass // Enlil's Tiara - Zhayolm Remnants - Poroggo Madame
+
+if item is 14559 then pass // Anu's Doublet - Bhaflau Remnants - Demented Jalaawa (NM)
+if item is 14560 then pass // Ea's Doublet - Arrapago Remnants - Armored Chariot (NM)
+if item is 14561 then pass // Enlil's Gambison - Zhayolm Remnants - Poroggo Madame
+
+if item is 14974 then pass // Anu's Gages - Silver Sea Remnants - Gyroscopic Gear (NM)
+//if item is 14975 then pass // Ea's Dastanas - Bhaflau Remnants - Long-Bowed Chariot (NM)
+if item is 14976 then pass // Enlil's Kolluks - Arrapago Remnants - Archaic Chariot (NM)
+
+if item is 15638 then pass // Anu's Brais - Zhayolm Remnants - Poroggo Madame (NM) 1F, 4F North 
+if item is 15639 then pass // Ea's Brais - Silver Sea Remnants - Long-Armed Chariot (NM)
+if item is 15640 then pass // Enlil's Brayettes - Bhaflau Remnants -  Rampart
+
+if item is 15724 then pass // Anu's Gaiters - Arrapago Remnants - Gear
+//if item is 15725 then lot // Ea's Crackows - Zhayolm Remnants - Battleclad Chariot (NM)
+if item is 15726 then pass // Enlil's Crackows - Silver Sea Remnants - Dekka (NM)
+
+// ===== Morrigan ===== 
+if item is 16101 then pass // Nemain's Crown - Silver Sea Remnants - Citadel Chelonian (NM)
+//if item is 16102 then lot // Bodb's Crown - Bhaflau Remnants - Long-Bowed Chariot (NM)
+if item is 16103 then pass // Macha's Crown - Arrapago Remnants - Psycheflayer (NM)
+
+if item is 14563 then pass // Nemain's Robe - Silver Sea Remnants - Silver Sea Remnants
+//if item is 14564 then pass // Bodb's Robe - Bhaflau Remnants - Long-Bowed Chariot (NM)
+if item is 14565 then pass // Macha's Coat - Arrapago Remnants - Qiqirn Treasure Hunter (NM)
+
+if item is 14978 then pass // Nemain's Cuffs - Zhayolm Remnants - Poroggo Madame (NM) 
+if item is 14979 then pass // Bodb's Cuffs - Silver Sea Remnants - Long-Armed Chariot (NM)
+if item is 14980 then pass // Macha's Cuffs - Bhaflau Remnants - Bhaflau Remnants -  Rampart
+
+if item is 15642 then pass // Nemain's Slops - Arrapago Remnants - Gear
+if item is 15643 then pass // Bodb's Slops - Zhayolm Remnants - Battleclad Chariot (NM)
+if item is 15644 then pass // Macha's Slops - Silver Sea Remnants - Powderkeg Yanadahn (NM)
+
+if item is 15728 then pass // Nemain's Sabots - Bhaflau Remnants - Random mobs
+if item is 15729 then pass // Bodb's Pigaches - Arrapago Remnants - Armored Chariot (NM)
+if item is 15730 then pass // Macha's Pigaches - Zhayolm Remnants - Poroggo Madame (NM) 6F 
+
+//Salvage II
+
+// ===== Ares  ===== 
+//if item is 3880 then lot // Bloodshed plans
+//if item is 27658 then lot // Ate's Mask
+//if item is 27798 then lot // Ate's Cuirass
+//if item is 27938 then lot // Ate's Gauntlets
+//if item is 28081 then lot // Ate's Flanchard
+//if item is 28218 then lot // Ate's Sollerets
+
+// ===== Skadi ===== 
+//if item is 3881 then lot // Umbrage plans
+//if item is 27659 then lot // Idi's Mask
+//if item is 27799 then lot // Idi's Jerkin
+//if item is 27939 then lot // Idi's Gloves
+//if item is 28082 then lot // Idi's Trousers
+//if item is 28219 then lot // Idi's Ledelsens
+
+// ===== Usukane ===== 
+//if item is 3882 then lot // Ritualistic Plans
+//if item is 27660 then lot // Genta Kabuto
+//if item is 27800 then lot // Genta hara-ate
+//if item is 27940 then lot // Genta Gote
+//if item is 28083 then lot // Genta-no-hakama
+//if item is 28220 then lot // Genta Sune-ate
+
+// ===== Marduk ===== 
+//if item is 3883 then lot // Tutelary plans
+//if item is 27661 then lot // Namru's Tiara
+//if item is 27801 then lot // Namru's Jubbah
+//if item is 27941 then lot // Namru's Dastanas
+//if item is 28084 then lot // Namru's Shalwar
+//if item is 28221 then lot // Namru's Crackows
+
+// ===== Morrigan ===== 
+//if item is 3884 then lot // Primacy Plans
+//if item is 27662 then lot // Neit's Crown
+//if item is 27802 then lot // Neit's Coat
+//if item is 27942 then lot // Neit's Cuffs
+//if item is 28085 then lot // Neit's Slops
+//if item is 28222 then lot // Neit's Pigaches
+

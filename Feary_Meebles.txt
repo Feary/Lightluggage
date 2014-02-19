@@ -1,0 +1,65 @@
+//Grannus 
+//if item is then pass //Ravana's Axe
+//if item is then pass //Himthige
+//if item is then pass //Huskarl Axe
+//Skrati Grip
+
+//Izyx
+//if item is then pass //Uguisu
+//Ocular Boots
+
+//Svaha
+//if item is then pass //Genjito
+//if item is then pass //Tenkomaru
+//Kahin Turban 
+//Matanki Earring 
+
+//Melisseus
+//Mass Chalemie
+//Rioter's Collar
+//Baalmuian Robe 
+//Feline Mantle
+//Daimonic Mandible
+//Daimonic Casing
+
+
+//Saur. Camp
+
+//Dreyruk
+//Blustery Dagger
+//Gusterion
+//Krabat Jacket
+//Alcedo Cuisses
+
+//Surtr
+//Dervish Sword
+//Ankylosis Wand 
+//Punga's Slops
+
+//Samursk
+//Adflictio
+//Devilish Scythe
+//Zouave's Beret
+//Akasha Chaps
+
+//Silagilith
+//Dhyana Rod
+//Dukkha
+//Vara Brigandine Armor
+//Paalaka Gloves
+
+//Umagrhk
+//Orunmila's Torque
+//Manasa Chasuble
+//Matanca Harness
+//Kokou's Earring
+//Abatteur Subligar
+//Simian Horn
+//Lock of Simian Mane
+
+//Goldwing
+//Bendis's Hairpin
+//Alcedo Gauntlets
+//Aneirin's Gloves
+
+/

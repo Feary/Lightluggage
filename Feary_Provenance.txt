@@ -1,0 +1,49 @@
+//Provenence
+
+//Provenance
+//
+
+if item is 18626 then pass // Plenitas Virga
+if item is 18909 then pass // Sanus
+if item is 10912 then pass // drachen horn
+//if item is 10913 then pass // Hyaline hat
+if item is 10806 then pass // Adamas
+//if item is 10485 then pass // Tessera Saio
+
+//if item is 5101 then lot //Arise
+//if item is 4851 then lot //Meteor
+
+//Corvine Hrafn
+//if item is 3559 then lot // head
+//if item is 3560 then lot // body
+//if item is 3561 then lot // hands
+if item is 3562 then pass // legs
+//if item is 3563 then lot // feet
+
+//Supernal 
+//if item is 3564 then lot // head
+//if item is 3565 then lot // Body
+//if item is 3566 then lot // hands
+//if item is 3567 then lot // Legs
+//if item is 3568 then lot // Feet
+
+//transitory/Khepri set
+//if item is 3569 then lot // Khepri head
+//if item is 3570 then lot // Khepri body
+if item is 3571 then pass // Khepri hands
+//if item is 3572 then lot // Khepri Legs
+//if item is 3573 then lot // Khepri Feet
+
+//Foreboding/Auspex
+//if item is 3574 then lot // head
+//if item is 3575 then lot // body
+//if item is 3576 then lot // hands
+//if item is 3577 then lot // legs
+//if item is 3578 then lot // feet
+
+//Lenitive/Paean set
+//if item is 3579 then lot // head
+//if item is 3580 then lot // Paean body
+if item is 3581 then pass // Paean hands
+if item is 3582 then pass // Paean legs
+//if item is 3583 then lot // Paean feet

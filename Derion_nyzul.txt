@@ -1,0 +1,47 @@
+//Derion's Nyzul Profile
+//
+
+//Kindred & Beastmen Seals
+//if item is 1126,1127,2955,2956,2490 then lot
+
+//trial Items
+//if item is 3297 then lot // flame geode
+//if item is 3298 then lot // Snow geode
+//if item is 3299 then lot // Breeze geode
+//if item is 3300 then lot // Soil geode
+//if item is 3301 then lot // thunder geode
+//if item is 3302 then lot // aqua geode
+//if item is 3303 then lot // light geode
+//if item is 3304 then lot // shadow geode
+
+//HQ ites
+//if item is 3520 then lot // ifirite
+//if item is 3521 then lot // Shivite
+//if item is 3522 then lot // Garudite
+//if item is 3523 then lot // Titanite
+//if item is 3524 then lot // ramuite
+//if item is 3525 then lot // leviatite
+//if item is 3526 then lot // carbite
+//if item is 3527 then lot // fenrite
+
+//Nyzul Weapons
+if item is 18492 then lot // Sturdy axe (war)
+if item is 18753 then pass // Burning fist (mnk)
+if item is 18851 then pass // Werebuster (whm)
+if item is 18589 then pass // Mage's Staff (blm)
+if item is 17742 then pass // Vorpal Sword (rdm)
+if item is 18003 then pass // Swordbreaker (thf)
+if item is 17744 then pass // brave blade (pld)
+if item is 18944 then pass // Death sickle (drk)
+if item is 17956 then pass // Double Axe (bst)
+if item is 18034 then pass // Dancing dagger (brd)
+if item is 18719 then pass // Killer Bow (rng)
+if item is 18443 then lot // Windslicer (sam)
+if item is 18426 then lot // Sasuke Katana (nin)
+if item is 18120 then pass // Radiant lance (drg)
+if item is 18590 then pass // Scepter Staff (smn)
+if item is 17743 then pass // Wightslayer (blu)
+if item is 18720 then pass // Quicksilver (Cor)
+if item is 18754 then pass // Inferno Claws (pup)
+if item is 19102 then pass // Main Gauche (dnc)
+if item is 18592 then pass // Elder Staff (sch)

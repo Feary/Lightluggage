@@ -1,0 +1,5 @@
+//Dynamis Profile
+//This profile is intended for Dynamis shell leaders
+
+if item is 1449,1452,1455 then pass //Lots singles
+if item is 1450,1453,1456 then pass //Lots 100 coins

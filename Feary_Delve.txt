@@ -1,0 +1,136 @@
+//Feary's Delve Profile
+
+//if item is 3974 then lot // airlixer
+//if item is 3975 then lot // +1
+//if item is 3974 then lot // +2
+
+//if item is 4059 then lot // Pluton
+//if item is 6180 then lot // Pluton Case 
+//if item is 4060 then lot // beitetsu
+//if item is 6181 then lot // beitetsu parcel 
+//if item is 4061 then lot // Boulder 
+//if item is 6182 then lot // Boulder Case
+
+//weapons
+if item is 20549 then pass // Rigor
+if item is 20637 then pass // dagger
+if item is 20739 then pass // Sword 
+if item is 21288 then pass // Gun
+if item is 21238 then pass // Bow
+if item is 21199 then pass // Staff
+if item is 21005 then pass // katana
+if item is 20873 then pass // gaxe
+if item is 20828 then pass // axe
+if item is 20778 then pass // gsword
+if item is 20964 then pass // polearm
+if item is 20918 then pass // scythe
+if item is 21053 then pass // Uguisumaru
+if item is 21128 then pass // Mondaha Cudgel
+if item is 28663 then pass // Steadfast Shield
+
+//boss
+//daquwaka
+//if item is 21256 then lot // xbow
+if item is 21052 then pass // GK
+if item is 20636 then pass // Dagger
+if item is 27774 then pass // Whirlpool Mask
+if item is 28337 then pass // Whirlpool Greaves
+if item is 28580 then pass //Sangoma Ring
+if item is 28401 then pass //Eddy Necklace
+if item is 3979 then lot // Tooth
+//if item is 3979 then lot // fin
+
+//Tojil
+if item is 20738 then pass // sword
+if item is 20548 then pass // h2h
+if item is 27773 then pass //Yaoyotl Helm
+if item is 28056 then pass //Yaoyotl Gloves
+if item is 28579 then pass //K'ayres Ring
+if item is 28462 then pass //Hurch'lan Sash
+if item is 3977 then lot // Gabba horn
+//if item is 6068 then lot // gabba meat
+
+//Muyingwa
+if item is 20829 then pass // Axe
+if item is 20963 then pass // Polearm
+if item is 27775 then pass // Nahtirah Hat
+if item is 28197 then pass // Nahtirah Trousers
+if item is 28641 then pass // Vespid Mantle
+//if item is 28581 then lot // Beeline Ring
+if item is 3981 then lot // Wing
+//if item is 3980 then lot // stinger
+
+//Mikinaak
+if item is 27776 then lot // Mikinaak helm
+if item is 27917 then pass // Mikinaak body
+if item is 28057 then pass // Mikinaak Gaunlets 
+if item is 28198 then pass // Mikinaak legs
+if item is 28338 then pass // Mikinaak feet
+
+// Manibozho
+if item is 27777 then pass // Manibozho Beret
+if item is 27918 then pass // Manibozho jerkin
+if item is 28058 then pass // Manibozho Gloves
+if item is 28199 then pass // Manibozho Brais
+if item is 28339 then pass // Manibozho Boots
+
+//Bokwus 
+if item is 27778 then lot // Bokwus Circlet
+if item is 27919 then pass // Bokwus Robe
+if item is 28059 then pass // Bokwus Gloves
+if item is 28200 then pass // Bokwus Slops
+if item is 28340 then pass // Bokwus boots
+
+// Accessory
+if item is 28402 then pass // Asperity necklace
+if item is 28520 then pass // steelflash earring
+if item is 28521 then pass // Bladeborn earring
+if item is 28522 then pass // Dungeon earring
+if item is 28523 then pass // heartseekers earring
+if item is 28524 then pass // Lifestorum earring
+if item is 28525 then pass // psystorm earring
+if item is 28463 then pass // Zoran belt
+if item is 28643 then pass // Refraction Cape
+if item is 21389 then pass // Honed Tathlum 
+if item is 21429 then pass // Mephitis Grip
+//if item is 28403 then pass // Inquisitor Bead Necklace
+//if item is 28582 then pass // Locus Ring
+//if item is 28642 then pass // Contriver's Cape
+if item is 21455 then pass // Alternator
+
+//Skirmish 
+
+// Cizin Set
+//if item is 27768 then pass // Cizin Helm 
+//if item is 27912 then pass // Cizin Mail 
+if item is 28051 then pass // Cizin Mufflers
+if item is 28192 then pass // Cizin Legs
+if item is 28332 then pass // Cizin Greaves 
+
+//Otronif 
+if item is 27769 then pass // Otronif
+if item is 27913 then pass // Otronif
+if item is 28052 then pass // Otronif
+if item is 28193 then pass // Otronif
+if item is 28332 then pass // Otronif
+
+//Iuitl Set
+//if item is 27770 then pass // iuitl headgear
+if item is 27914 then pass // Iuitl Vest
+if item is 28053 then pass // iuitl wristbands
+if item is 28194 then pass // iuitl tights
+if item is 28334 then pass // iuitl gaiters
+
+// Gend
+//if item is 27771 then pass // Gende. Caubeen
+if item is 27915 then pass // Gende Bliaut
+if item is 28054 then pass // Gende Gages  
+if item is 28195 then pass // Gende Spats
+//if item is 28335 then pass // Gende Galoshes
+
+//Hagondes 
+if item is 27772 then pass // Hagondes
+if item is 27916 then pass // Hagondes
+if item is 28055 then pass // Hagondes 
+if item is 28196 then pass // Hagondes
+if item is 28336 then pass // Hagondes

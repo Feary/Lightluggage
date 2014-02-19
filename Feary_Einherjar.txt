@@ -1,0 +1,47 @@
+//Odin
+//Hofud
+//Valkyrie's Fork
+//Valhalla Helm
+//Valhalla Breastplate
+
+//Odin II
+//Heimdall's Doom
+//Laeradr Breastplate
+//Laeradr Helm
+//Herja's Fork 
+//Eihwaz Ring
+//Dagaz Ring
+//Othila Sash
+
+//Abj.
+//Aquarian Abjuration: Body
+if item is 1326 then pass //Aquarian Abjuration: Hands
+//Aquarian Abjuration: Feet
+
+//Dryadic Abjuration: Feet
+
+//Earthen Abjuration: Body
+//Earthen Abjuration: Hands
+//Earthen Abjuration: Legs
+
+//Hadean Abjuration: Body
+//Hadean Abjuration: Feet
+//Hadean Abjuration: Hands
+//Hadean Abjuration: Head
+//Hadean Abjuration: Legs
+
+//Martial Abjuration: Body
+//Martial Abjuration: Feet
+//Martial Abjuration: Legs
+
+//Neptunal Abjuration: Head
+//Neptunal Abjuration: Legs
+
+//Phantasmal Abjuration: Body
+//Phantasmal Abjuration: Feet 
+//Phantasmal Abjuration: Hands
+//Phantasmal Abjuration: Head
+//Phantasmal Abjuration: Legs
+
+//Wyrmal Abjuration: Body 
+//Wyrmal Abjuration: Head 

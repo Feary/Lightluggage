@@ -1,0 +1,458 @@
+//Abyssea Profile
+//This profile is intended for Annoying Item that drop when you are full.
+//and tracking loting of af3 seal and armor drops.
+
+//trial Items
+//if item is 3297 then lot // flame geode
+//if item is 3298 then lot // Snow geode
+//if item is 3299 then lot // Breeze geode
+//if item is 3300 then lot // Soil geode
+//if item is 3301 then lot // thunder geode
+//if item is 3302 then lot // aqua geode
+//if item is 3303 then lot // light geode
+//if item is 3304 then lot // shadow geode
+
+//HQ ites
+//if item is 3520 then lot // ifirite
+//if item is 3521 then lot // Shivite
+//if item is 3522 then lot // Garudite
+//if item is 3523 then lot // Titanite
+//if item is 3524 then lot // ramuite
+//if item is 3525 then lot // leviatite
+//if item is 3526 then lot // carbite
+//if item is 3527 then lot // fenrite
+
+//Af3 Items
+//Head
+if item is 3213 then pass //Vision Card
+//if item is 3211 then pass //Vision Coin : BST NIN SMN
+if item is 3212 then pass //Vision Jewel : RDM SAM
+if item is 3210 then pass //Vision Stone : BRD 
+
+//Body
+if item is 3217 then pass //Ardor Card : BST
+//if item is 3215 then pass //Ardor Coin : THF RNG SMN 
+if item is 3216 then pass //Ardor Jewel : RDM DNC 
+if item is 3214 then pass //Ardor Stone : BRD BLU 
+
+//Hands
+if item is 3221 then pass //Wieldance Card : 
+if item is 3219 then pass //Wieldance Coin : RNG
+//if item is 3220 then pass //Wieldance Jewel : BRD  
+if item is 3218 then pass //Wieldance Stone
+
+//Legs
+if item is 3225 then pass //Balance Card : SMN DNC
+if item is 3223 then pass //Balance Coin : RDM THF BRD
+if item is 3224 then pass //Balance Jewel : BST RNG SAM  
+if item is 3222 then pass //Balance Stone : BLU PUP
+
+//Feet
+//if item is 3229 then lot //Voyage Card : BLM BST RNG NIN
+if item is 3227 then pass //Voyage Coin : BLU 
+if item is 3228 then pass //Voyage Jewel : THF BRD SAM
+//if item is 3226 then lot //Voyage Stone : SMN DNC
+
+//Emp. Weapons
+//Ochain/Harp
+if item is 3293 then pass // iron plates
+//if item is 3294 then lot // Colorless Soul
+if item is 3292 then pass // Azdaja's Horns
+ 
+//twashtar/ukonvashra
+//if item is 2927 then lot // Glaviod shells
+//if item is 2962 then lot // Itzpapalotl's Scale
+//if item is 3287 then lot // Orthrus claws
+
+//Gandiva/Gambentienn/Farsha
+if item is 2931 then pass // Fistule Discharge
+//if item is 2966 then lot // Bukhis Wings
+//if item is 3291 then lot // Alfard Fangs
+
+//Armageddon/Masamune/Caldabolg
+//if item is 2930 then lot // Carabosse Gem
+//if item is 2965 then lot // Cririon cieon
+//if item is 3290 then lot // isgebind's Heart
+
+//rando/Vere/scthye
+//if item is 2928 then lot // chloris buds
+//if item is 2963 then lot //ulda fangs
+//if item is 3288 then lot //dragua Scale
+
+//staff
+//if item is 2932 then lot // kulkulkan fangs
+//if item is 2967 then lot //sedna tusks
+//if item is then 3292 lot //azdaja horns
+
+//Sword/Katana
+//if item is 2929 then lot // briareus helms
+//if item is 2964 then lot // sobek skins
+//if item is 3289 then lot // adapmak
+
+//Pop Items
+//kon
+
+//tahrongi
+//if item is 2919 then pass // Bloody Fang
+if item is 2920 then pass // Alkaline Humus
+
+//la thiene
+if item is 2900 then pass // bug eaten hat
+if item is 2902 then pass // filthy gnole claw
+if item is 2891 then pass // Dried chigoe
+if item is 2892 then pass // mutton chop
+if item is 2893 then pass // g. blk. tiger fang
+if item is 2899 then pass // winter puk egg
+if item is 2901 then pass // giant a. mushroom
+
+//attowha
+//if item is 3083 then pass // Mang Cock meat
+//if item is 3081 then pass // Couerl Round
+//if item is 3073 then pass // Eruca Egg
+//if item is 3075 then pass // undying oze
+
+//vunkerl
+//if item is 3104 then pass // Opague Wing
+
+//misa coast
+//if item is 3092 then pass // Mocking Beak
+
+//item
+if item is 868 then pass // pugil scales
+if item is 847 then pass // bird Feather
+if item is 4570 then pass // bird egg
+if item is 2150 then pass // colibri feather
+if item is 2149 then pass // Apkallu feather
+if item is 2148 then pass // puk wing
+if item is 17868 then pass // Jug of Humus
+if item is 768 then pass // Flint stone
+if item is 642 then pass // zinc ore
+if item is 736 then pass // silver ore
+if item is 936 then pass // rock salt
+if item is 839 then pass // crawler cocoon
+if item is 4435 then pass // cockatrice meat
+if item is 4368 then pass // two mandy bud
+if item is 940 then pass // revival root
+if item is 4400 then pass // land crab meat
+if item is 881 then pass // crab shell
+if item is 869 then pass // lizard molt
+if item is 852 then pass // lizard skin
+if item is 4362 then pass // lizard egg
+if item is 4357 then pass // crawler egg
+if item is 2549 then pass // djinn ashess
+if item is 2953 then pass // Visous spittle
+if item is 897 then pass // scorpion claw
+if item is 922 then pass // bat wing
+if item is 891 then pass // bat fang
+if item is 924 then pass // fiend blood
+if item is 2874 then pass //lambent scale
+if item is 1633 then pass // clot plasma
+
+//Misc Gear
+//Magnus
+if item is 19313 then pass // magnus lance
+if item is 19168 then pass // magnus claymore
+if item is 18967 then pass // magnus scyhe
+if item is 18893 then pass // magnus sword
+if item is 18777 then pass // magnus sainti
+if item is 18620 then pass // magnus pole
+if item is 19131 then pass // magnus dagger
+if item is 18533 then pass // magnus axe
+if item is 18514 then pass // magnus toporok
+if item is 17047 then pass // magnus hammer
+if item is 19289 then pass // toki
+if item is 18456 then pass // Yoshihiro
+
+//Hackimaki
+if item is 11508 then pass //Tokon
+if item is 11509 then pass //issen
+if item is 11510 then pass //kenho
+if item is 11511 then pass //hako
+if item is 11512 then pass //ryoshi
+if item is 11513 then pass //senshin
+if item is 11514 then pass //rekka
+if item is 11515 then pass //shiotsu
+if item is 11516 then pass //kanja 
+if item is 11517 then pass //kengo
+if item is 11518 then pass //rokugo
+if item is 11519 then pass //hakke
+if item is 11520 then pass //Shunten
+if item is 11521 then pass //Saika
+
+//Other
+//kons
+if item is 11522 then pass // lightsome cap
+if item is 17808 then pass // Scathacha
+ 
+//tahrongi
+//Trials
+if item is 2933 then pass // chukwa egg
+
+//weapons 
+if item is 11523 then pass //Brisk mask
+if item is 17185 then pass //seige bow
+if item is 12741 then pass //ludic mitts
+if item is 14888 then lot //augur mitts
+if item is 15429 then pass //wicca subilgar
+if item is 12488 then pass //ost cervliere
+
+//la thiene
+if item is 16428 then pass // afflictors
+if item is 15427 then pass // Teutates Subligar
+
+//altepa
+if item is 16260 then pass // aething mantle
+if item is 11698 then pass // hecate earring
+if item is 18804 then pass // uther grip
+
+//grauberg
+if item is 12345 then pass //bloodbead ecu
+//warlord axe
+
+//elemental belt
+//if item is 11755 then pass // flame belt 
+if item is 11756 then pass // snow belt 
+//if item is 11757 then pass // Breeze belt
+if item is 11758 then pass // soil belt
+//if item is 11759 then pass // thunder belt
+//if item is 11760 then pass // aqua belt
+//if item is 11761 then pass // light belt
+//if item is 11762 then pass // shadow belt
+
+//elemental Satchets
+//if item is 18473 then pass // Flame Sachet
+if item is 18474 then pass // Snow Sachet
+if item is 18475 then pass // Breeze Sachet
+if item is 18476 then pass // Soil Sachet
+if item is 18477 then pass // Thunder Sachet
+if item is 18478 then pass // Aqua Sachet
+if item is 18479 then pass // Light Sachet
+if item is 18480 then pass // Lhadow Sachet
+
+//Feet AF
+if item is 12091 then pass // Blm feet
+if item is 12088 then pass // war feet
+if item is 12093 then pass // thf feet
+if item is 12089 then pass // mnk feet
+if item is 12090 then pass // whm feet
+if item is 12092 then pass // Rdm Feet
+if item is 12097 then pass // brd feet
+if item is 12094 then pass // pld feet
+if item is 12095 then pass // drk feet
+if item is 12096 then pass // bst feet
+if item is 12098 then pass // rng feet
+if item is 12102 then pass // smn feet
+if item is 12106 then pass // dnc feet
+if item is 12099 then pass // sam feet
+if item is 12100 then pass // nin feet	
+if item is 12103 then pass // blu feet
+if item is 12105 then pass // pup feet
+if item is 12104 then pass // cor feet 
+if item is 12107 then pass // sch feet
+if item is 12101 then pass // drg feet
+
+//Seals
+//war
+if item is 3110 then pass // war
+if item is 3130 then pass // war
+if item is 3150 then pass // War
+if item is 3170 then pass // legs
+if item is 3190 then pass // feet
+
+//mnk
+if item is 3111 then pass // mnk 
+if item is 3131 then pass // mnk
+if item is 3151 then pass // mnk
+if item is 3171 then pass // legs
+if item is 3191 then pass // feet
+
+// whm
+if item is 3112 then pass // whm
+if item is 3132 then pass // whm
+if item is 3152 then pass // whm
+if item is 3172 then pass // legs
+if item is 3192 then pass // feet
+
+// blm
+if item is 3113 then pass // blm 
+if item is 3133 then pass // blm
+if item is 3153 then pass // blm
+if item is 3173 then pass // legs
+if item is 3193 then pass // feet
+
+//rdm
+if item is 3114 then pass // Rdm 
+//if item is 3134 then pass // rdm
+//if item is 3154 then pass // rdm
+if item is 3174 then pass // legs 
+//if item is 3194 then pass // feet
+
+// thf
+if item is 3115 then pass // thf
+if item is 3135 then pass // thf
+if item is 3155 then pass // thf 
+if item is 3175 then pass // legs 
+if item is 3195 then pass // feet 
+
+// pld
+if item is 3116 then pass // pld 
+if item is 3136 then pass // pld
+if item is 3156 then pass // pld
+if item is 3176 then pass // legs
+//if item is 3196 then pass // feet
+
+// drk
+//if item is 3117 then pass // drk
+if item is 3137 then pass // drk
+if item is 3157 then pass // drk 
+if item is 3177 then pass // legs
+if item is 3197 then pass // feet
+
+// bst
+if item is 3118 then pass // bst
+if item is 3138 then pass // bst
+if item is 3158 then pass // bst 
+if item is 3178 then pass // legs
+if item is 3198 then pass // feet  
+
+// brd 
+//if item is 3119 then lot // brd
+if item is 3139 then pass // brd
+if item is 3159 then pass // brd
+if item is 3179 then pass // legs
+//if item is 3199 then pass // feet 
+
+// rng
+if item is 3120 then pass // rng 
+if item is 3140 then pass // rng 
+if item is 3160 then pass // rng
+if item is 3180 then pass // legs
+if item is 3200 then pass // feet
+
+// sam 
+if item is 3121 then pass // sam 
+if item is 3141 then pass // sam
+//if item is 3161 then lot // sam 
+if item is 3181 then pass // legs
+if item is 3201 then pass // feet
+
+// nin
+if item is 3122 then pass // nin
+if item is 3142 then pass // body
+if item is 3162 then pass // nin
+if item is 3182 then pass // legs
+if item is 3202 then pass // feet 
+
+// drg
+if item is 3123 then pass // drg
+if item is 3143 then pass // drg
+//if item is 3163 then pass // drg
+if item is 3183 then pass // legs  
+//if item is 3203 then pass // feet
+
+// smn
+if item is 3124 then pass // smn 
+//if item is 3144 then pass // smn
+if item is 3164 then pass // smn 
+if item is 3184 then pass // legs 
+if item is 3204 then pass // feet
+
+// blu
+if item is 3125 then pass // blu
+if item is 3145 then pass // blu
+if item is 3165 then pass // blu
+if item is 3185 then pass // legs 
+if item is 3205 then pass // feet
+
+// cor
+if item is 3126 then pass // cor
+if item is 3146 then pass // cor
+if item is 3166 then pass // cor
+if item is 3186 then pass // legs
+if item is 3206 then pass // feet
+
+// pup
+if item is 3127 then pass // pup
+//if item is 3147 then pass // pup
+if item is 3167 then pass // pup
+if item is 3187 then pass // legs
+if item is 3207 then pass // feet
+
+// dnc
+if item is 3128 then pass // dnc
+if item is 3148 then pass // dnc
+if item is 3168 then pass // dnc
+if item is 3188 then pass // legs
+if item is 3208 then pass // feet
+
+// sch 
+if item is 3129 then pass // sch
+if item is 3149 then pass // sch
+//if item is 3169 then pass // sch
+if item is 3189 then pass // legs
+if item is 3209 then pass // feet
+
+//af accessory
+//if item is 19253 then lot // Ravager's orb
+//if item is 11591 then lot // ravager gorget
+//if item is 11592 then lot // Tantra necklace
+//if item is 19254 then pass // tantra tathlum
+//if item is 11615 then pass // orison locket
+//if item is 11554 then pass // orison cape
+//if item is 11593 then lot // goetia chain
+if item is 16203 then pass // goetia mantle
+if item is 11594 then pass // estoquer collar
+if item is 16204 then pass // estoquer cape
+//if item is 19260 then pass // raider boomerang
+//if item is 11736 then lot // raiders belt
+//if item is 11595 then lot // creed collar
+if item is 11750 then pass // creed baudier
+//if item is 11616 then lot // bale choker
+//if item is 11737 then lot // bale belt
+if item is 11617 then pass // ferine necklace
+//if item is 11555 then pass // ferine mantle
+//if item is 11618 then lot // adios mantiee
+//if item is 11738 then lot // aoidos belt
+if item is 11596 then pass // sylvan scarf
+//if item is 16205 then lot // syvlan chlamys
+//if item is 11597 then lot // unkai neck
+//if item is 16206 then lot // unkai sugemino
+//if item is 11598 then lot // iga ermiki
+if item is 16207 then pass // iga douchepapapa
+//if item is 11599 then lot // lancer torque
+//if item is 16208 then lot // lancer pelerine
+if item is 11619 then pass // caller pendant
+//if item is 11739 then lot // callers sash
+//if item is 11500 then lot // mavi scarf
+if item is 19255 then pass // mavi tathlum
+//if item is 11601 then lot // navarch choker
+if item is 16209 then pass // navarch mantle
+//if item is 11602 then lot // cirque necklace
+if item is 11751 then pass // cirque sash
+if item is 11603 then pass // charis necklace
+if item is 19256 then pass // charis feather
+if item is 11620 then pass // savant chain
+//if item is 19247 then lot // savant treatise
+
+//Earrings
+if item is 11703 then pass // ravagers earring
+//if item is 11704 then pass // tantra earring
+//if item is 11705 then pass // orison earring
+//if item is 11706 then lot // goetia earring
+if item is 11707 then pass // esque earring
+//if item is 11708 then lot // raiders earring
+if item is 11709 then pass // creed earring
+//if item is 11710 then lot // bale earring
+//if item is 11711 then lot // ferine earring
+//if item is 11712 then pass // aoidos earring
+//if item is 11713 then lot // syvlan earring
+//if item is 11714 then lot // unkai earring
+//if item is 11715 then lot // iga earring
+//if item is 11716 then lot // lancer earring
+//if item is 11717 then lot // callers earring
+//if item is 11718 then lot // mavi earring
+//if item is 11719 then lot // commodore earring
+if item is 11720 then pass // cirque earring
+if item is 11721 then pass // charis earring
+//if item is 11722 then lot // savant earring
+

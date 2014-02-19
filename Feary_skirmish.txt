@@ -1,0 +1,36 @@
+//Skirmish 
+
+// Cizin Set
+//if item is 27768 then pass // Cizin Helm 
+//if item is 27912 then pass // Cizin Mail 
+if item is 28051 then pass // Cizin Mufflers
+if item is 28192 then pass // Cizin Legs
+if item is 28332 then pass // Cizin Greaves 
+
+//Otronif 
+if item is 27769 then pass // Otronif
+if item is 27913 then pass // Otronif
+if item is 28052 then pass // Otronif
+if item is 28193 then pass // Otronif
+if item is 28332 then pass // Otronif
+
+//Iuitl Set
+//if item is 27770 then pass // iuitl headgear
+if item is 27914 then pass // Iuitl Vest
+if item is 28053 then pass // iuitl wristbands
+if item is 28194 then pass // iuitl tights
+if item is 28334 then pass // iuitl gaiters
+
+// Gend
+//if item is 27771 then pass // Gende. Caubeen
+if item is 27915 then pass // Gende Bliaut
+if item is 28054 then pass // Gende Gages  
+if item is 28195 then pass // Gende Spats
+//if item is 28335 then pass // Gende Galoshes
+
+//Hagondes 
+if item is 27772 then pass // Hagondes
+if item is 27916 then pass // Hagondes
+if item is 28055 then pass // Hagondes 
+if item is 28196 then pass // Hagondes
+if item is 28336 then pass // Hagondes
