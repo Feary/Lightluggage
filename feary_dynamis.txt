@@ -19,20 +19,19 @@
 //if item is 748 then pass // pass Gold Beastcoin
 
 // ========== Junk Items ==========
+//if item is 1469 then pass //Wootz Ore bastok
+//if item is 1516 then pass //Griffon Hide sandy
+//if item is 1470 then pass //Sparkling Stone all zone
+//if item is 1517 then pass //Giant Frozen Head sandy
+//if item is 1466 then pass //Relic Iron windy
+//if item is 1464 then pass //Lancewood Log windy
 
-//if item is 1459 then pass //Griffon Leather
 //if item is 1460 then pass //Koh-I-Noor
 //if item is 1462 then pass //Lancewood Lumber
 //if item is 1463 then pass //Chronos Tooth
-//if item is 1464 then pass //Lancewood Log
-//if item is 1466 then pass //Relic Iron
 //if item is 1467 then pass //Relic Steel
 //if item is 1468 then pass //Marksman's Oil
-//if item is 1469 then pass //Wootz Ore
-//if item is 1470 then pass //Sparkling Stone
 //if item is 1474 then pass //Infinity Core
-//if item is 1516 then pass //Griffon Hide
-//if item is 1517 then pass //Giant Frozen Head
 //if item is 1518 then pass //Colossal Skull
 //if item is 1519 then pass //Fresh Orc Liver
 //if item is 1520 then pass //Goblin Grease
@@ -222,13 +221,13 @@ if item is 15087 then pass //body
 if item is 15102 then pass //hands
 if item is 15117 then pass //legs
 if item is 15132 then pass //feet
-//if item is 13194 then pass //waist
+if item is 13194 then pass //waist
 
 //if item is 2033 then pass //head -1
 //if item is 2034 then pass //body -1
 //if item is 2035 then pass //hands -1
 //if item is 2036 then pass //legs -1
-//if item is 2037 then pass //feet -1
+if item is 2037 then pass //feet -1
 
 // ===== MNK (Melee) =====
 if item is 15073 then pass //head
@@ -236,7 +235,7 @@ if item is 15088 then pass //body
 if item is 15103 then pass //hands
 if item is 15118 then pass //legs
 if item is 15133 then pass //feet
-//if item is 15478 then pass //back
+if item is 15478 then pass //back
 
 //if item is 2038 then pass //head -1
 if item is 2039 then pass //body -1
@@ -250,13 +249,13 @@ if item is 15089 then pass //body
 if item is 15104 then pass //hands
 if item is 15119 then pass //legs
 if item is 15134 then pass //feet
-//if item is 15872 then pass //waist
+if item is 15872 then pass //waist
 
 //if item is 2043 then pass //head -1
 //if item is 2044 then pass //body -1
 //if item is 2045 then pass //hands -1
 //if item is 2046 then pass //legs -1
-//if item is 2047 then pass //feet -1
+if item is 2047 then pass //feet -1
 
 // ===== BLM (Sorcerer) =====
 if item is 15075 then pass //head
@@ -264,13 +263,13 @@ if item is 15090 then pass //body
 if item is 15105 then pass //hands
 if item is 15120 then pass //legs
 if item is 15135 then pass //feet
-//if item is 15874 then pass //waist
+if item is 15874 then pass //waist
 
-//if item is 2048 then pass //head -1
+if item is 2048 then pass //head -1
 //if item is 2049 then pass //body -1
 //if item is 2050 then pass //hands -1
 //if item is 2051 then pass //legs -1
-//if item is 2052 then pass //feet -1
+if item is 2052 then pass //feet -1
 
 // ===== RDM (Duelist) =====
 if item is 15076 then pass //head
@@ -292,13 +291,13 @@ if item is 15092 then pass //body
 if item is 15107 then pass //hands
 if item is 15122 then pass //legs
 if item is 15137 then pass //feet
-//if item is 15480 then pass //back
+if item is 15480 then pass //back
 
 //if item is 2058 then pass //head -1
 //if item is 2059 then pass //body -1
 if item is 2060 then pass //hands -1
 //if item is 2061 then pass //legs -1
-//if item is 2062 then pass //feet -1
+if item is 2062 then pass //feet -1
 
 // ===== PLD (Valor) =====
 if item is 15078 then pass //head
@@ -306,10 +305,10 @@ if item is 15093 then pass //body
 if item is 15108 then pass //hands
 if item is 15123 then pass //legs
 if item is 15138 then pass //feet
-//if item is 15481 then pass //back
+if item is 15481 then pass //back
 
 //if item is 2063 then pass //head -1
-//if item is 2064 then pass //body -1
+if item is 2064 then pass //body -1
 //if item is 2065 then pass //hands -1
 if item is 2066 then pass //legs -1
 if item is 2067 then pass //feet -1
@@ -322,11 +321,11 @@ if item is 15124 then pass //legs
 if item is 15139 then pass //feet
 if item is 15479 then pass //back
 
-//if item is 2068 then pass //head -1
+if item is 2068 then pass //head -1
 //if item is 2069 then pass //body -1
 //if item is 2070 then pass //hands -1
 //if item is 2071 then pass //legs -1
-//if item is 2072 then pass //feet -1
+if item is 2072 then pass //feet -1
 
 // ===== BST (Monster) =====
 if item is 15080 then pass //head
@@ -334,13 +333,13 @@ if item is 15095 then pass //body
 if item is 15110 then pass //hands
 if item is 15125 then pass //legs
 if item is 15140 then pass //feet
-//if item is 15875 then pass //waist
+if item is 15875 then pass //waist
 
 //if item is 2073 then pass //head -1
 //if item is 2074 then pass //body -1
 //if item is 2075 then pass //hands -1
 //if item is 2076 then pass //legs -1
-//if item is 2077 then pass //feet -1
+if item is 2077 then pass //feet -1
 
 // ===== BRD (Bard) =====
 if item is 15081 then pass //head
@@ -348,9 +347,9 @@ if item is 15096 then pass //body
 if item is 15111 then pass //hands
 if item is 15126 then pass //legs
 if item is 15141 then pass //feet
-//if item is 15482 then pass //back
+if item is 15482 then pass //back
 
-//if item is 2078 then pass //head -1
+if item is 2078 then pass //head -1
 if item is 2079 then pass //body -1
 //if item is 2080 then pass //hands -1
 if item is 2081 then pass //legs -1
@@ -376,21 +375,21 @@ if item is 15098 then pass //body
 if item is 15113 then pass //hands
 if item is 15128 then pass //legs
 if item is 15143 then pass //feet
-//if item is 15879 then pass //waist
+if item is 15879 then pass //waist
 
 //if item is 2088 then pass //head -1
 //if item is 2089 then pass //body -1
 if item is 2090 then pass //hands -1
 //if item is 2091 then pass //legs -1
-//if item is 2092 then pass //feet -1
+if item is 2092 then pass //feet -1
 
 // ===== NIN (Koga) =====
 if item is 15084 then pass //head
 if item is 15099 then pass //body
 if item is 15114 then pass //hands
-if item is 15129 then lot //legs
+if item is 15129 then pass //legs
 if item is 15144 then pass //feet
-//if item is 15877 then pass //waist
+if item is 15877 then pass //waist
 
 //if item is 2093 then pass //head -1
 //if item is 2094 then pass //body -1
@@ -404,7 +403,7 @@ if item is 15100 then pass //body
 if item is 15115 then pass //hands
 if item is 15130 then pass //legs
 if item is 15145 then pass //feet
-//if item is 15878 then pass //waist
+if item is 15878 then pass //waist
 
 if item is 2098 then pass //head -1
 if item is 2099 then pass //body -1
@@ -418,7 +417,7 @@ if item is 15101 then pass //body
 if item is 15116 then pass //hands
 if item is 15131 then pass //legs
 if item is 15146 then pass //feet
-//if item is 15484 then pass //back
+if item is 15484 then pass //back
 
 //if item is 2103 then pass //head -1
 //if item is 2104 then pass //body -1
@@ -432,13 +431,13 @@ if item is 11292 then pass //body
 if item is 15025 then pass //hands
 if item is 16346 then pass //legs
 if item is 11382 then pass //feet
-//if item is 16244 then pass //back
+if item is 16244 then pass //back
 
 //if item is 2662 then pass //head -1
 //if item is 2663 then pass //body -1
 //if item is 2664 then pass //hands -1
 //if item is 2665 then pass //legs -1
-//if item is 2666 then pass //feet -1
+if item is 2666 then pass //feet -1
 
 // ===== COR (Commodore) =====
 if item is 11468 then pass //head
@@ -446,7 +445,7 @@ if item is 11295 then pass //body
 if item is 15028 then pass //hands
 if item is 16349 then pass //legs
 if item is 11385 then pass //feet
-//if item is 15920 then pass //waist
+if item is 15920 then pass //waist
 
 if item is 2667 then pass //head -1
 if item is 2668 then pass //body -1
@@ -460,7 +459,7 @@ if item is 11298 then pass //body
 if item is 15031 then pass //hands
 if item is 16352 then pass //legs
 if item is 11388 then pass //feet
-//if item is 16245 then pass //back
+if item is 16245 then pass //back
 
 //if item is 2672 then pass //head -1
 //if item is 2673 then pass //body -1
@@ -474,13 +473,13 @@ if item is 11305 then pass //body
 if item is 15038 then pass //hands
 if item is 16360 then pass //legs
 if item is 11396 then pass //feet
-//if item is 16248 then pass //back
+if item is 16248 then pass //back
 
 //if item is 2718 then pass //head -1
 //if item is 2719 then pass //body -1
 //if item is 2720 then pass //hands -1
 //if item is 2721 then pass //legs -1
-//if item is 2722 then pass //feet -1
+if item is 2722 then pass //feet -1
 
 // ===== SCH (Argute) =====
 if item is 11480 then pass //head
@@ -490,7 +489,7 @@ if item is 16362 then pass //legs
 if item is 11398 then pass //feet
 if item is 15925 then pass //waist
 
-//if item is 2723 then pass //head -1
+if item is 2723 then pass //head -1
 if item is 2724 then pass //body -1
 //if item is 2725 then pass //hands -1
 //if item is 2726 then pass //legs -1
