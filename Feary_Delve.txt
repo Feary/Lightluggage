@@ -6,10 +6,10 @@
 
 //if item is 4059 then lot // Pluton
 //if item is 6180 then lot // Pluton Case 
-//if item is 4060 then lot // beitetsu
-//if item is 6181 then lot // beitetsu parcel 
-//if item is 4061 then lot // Boulder 
-//if item is 6182 then lot // Boulder Case
+if item is 4060 then pass // beitetsu
+if item is 6181 then pass // beitetsu parcel 
+if item is 4061 then pass // Boulder 
+if item is 6182 then pass // Boulder Case
 
 //weapons
 if item is 20549 then pass // Rigor
@@ -17,7 +17,8 @@ if item is 20637 then pass // dagger
 if item is 20739 then pass // Sword 
 if item is 21288 then pass // Gun
 if item is 21238 then pass // Bow
-if item is 21199 then pass // Staff
+if item is 21198 then pass // Staff
+if item is 21199 then pass // Pole
 if item is 21005 then pass // katana
 if item is 20873 then pass // gaxe
 if item is 20828 then pass // axe
@@ -30,25 +31,25 @@ if item is 28663 then pass // Steadfast Shield
 
 //boss
 //daquwaka
-//if item is 21256 then lot // xbow
+//if item is 21256 then pass // xbow
 if item is 21052 then pass // GK
 if item is 20636 then pass // Dagger
 if item is 27774 then pass // Whirlpool Mask
 if item is 28337 then pass // Whirlpool Greaves
-if item is 28580 then pass //Sangoma Ring
-if item is 28401 then pass //Eddy Necklace
+if item is 28580 then pass // Sangoma Ring
+if item is 28401 then pass // Eddy Necklace
 if item is 3979 then lot // Tooth
 //if item is 3979 then lot // fin
 
 //Tojil
 if item is 20738 then pass // sword
 if item is 20548 then pass // h2h
-if item is 27773 then pass //Yaoyotl Helm
-if item is 28056 then pass //Yaoyotl Gloves
-if item is 28579 then pass //K'ayres Ring
-if item is 28462 then pass //Hurch'lan Sash
+if item is 27773 then pass // Yaoyotl Helm
+if item is 28056 then pass // Yaoyotl Gloves
+if item is 28579 then pass // K'ayres Ring
+if item is 28462 then pass // Hurch'lan Sash
 if item is 3977 then lot // Gabba horn
-//if item is 6068 then lot // gabba meat
+if item is 6068 then lot // gabba meat
 
 //Muyingwa
 if item is 20829 then pass // Axe
@@ -58,7 +59,7 @@ if item is 28197 then pass // Nahtirah Trousers
 if item is 28641 then pass // Vespid Mantle
 //if item is 28581 then lot // Beeline Ring
 if item is 3981 then lot // Wing
-//if item is 3980 then lot // stinger
+if item is 3980 then lot // stinger
 
 //Mikinaak
 if item is 27776 then lot // Mikinaak helm
