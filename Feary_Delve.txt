@@ -6,10 +6,10 @@
 
 //if item is 4059 then lot // Pluton
 //if item is 6180 then lot // Pluton Case 
-if item is 4060 then pass // beitetsu
-if item is 6181 then pass // beitetsu parcel 
-if item is 4061 then pass // Boulder 
-if item is 6182 then pass // Boulder Case
+//if item is 4060 then pass // beitetsu
+//if item is 6181 then pass // beitetsu parcel 
+//if item is 4061 then pass // Boulder 
+//if item is 6182 then pass // Boulder Case
 
 //weapons
 if item is 20549 then pass // Rigor
@@ -58,11 +58,11 @@ if item is 27775 then pass // Nahtirah Hat
 if item is 28197 then pass // Nahtirah Trousers
 if item is 28641 then pass // Vespid Mantle
 //if item is 28581 then lot // Beeline Ring
-if item is 3981 then lot // Wing
+//if item is 3981 then lot // Wing
 if item is 3980 then lot // stinger
 
 //Mikinaak
-if item is 27776 then lot // Mikinaak helm
+if item is 27776 then pass // Mikinaak helm
 if item is 27917 then pass // Mikinaak body
 if item is 28057 then pass // Mikinaak Gaunlets 
 if item is 28198 then pass // Mikinaak legs
@@ -76,7 +76,7 @@ if item is 28199 then pass // Manibozho Brais
 if item is 28339 then pass // Manibozho Boots
 
 //Bokwus 
-if item is 27778 then lot // Bokwus Circlet
+if item is 27778 then pass // Bokwus Circlet
 if item is 27919 then pass // Bokwus Robe
 if item is 28059 then pass // Bokwus Gloves
 if item is 28200 then pass // Bokwus Slops
@@ -96,7 +96,7 @@ if item is 21389 then pass // Honed Tathlum
 if item is 21429 then pass // Mephitis Grip
 //if item is 28403 then pass // Inquisitor Bead Necklace
 //if item is 28582 then pass // Locus Ring
-//if item is 28642 then pass // Contriver's Cape
+if item is 28642 then pass // Contriver's Cape
 if item is 21455 then pass // Alternator
 
 //Skirmish 
@@ -122,7 +122,7 @@ if item is 28053 then pass // iuitl wristbands
 if item is 28194 then pass // iuitl tights
 if item is 28334 then pass // iuitl gaiters
 
-// Gend
+//Gend
 //if item is 27771 then pass // Gende. Caubeen
 if item is 27915 then pass // Gende Bliaut
 if item is 28054 then pass // Gende Gages  
