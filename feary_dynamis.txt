@@ -58,8 +58,8 @@
 
 // ========== Fragment Pop item ==========
 //if item is 3364 then lot // mystic goad
-//if item is 3365 then lot // ornate goad
-//if item is 3366 then lot // holy goad
+if item is 3365 then pass // ornate goad - Dagger
+//if item is 3366 then lot // holy goad - GreatSword
 //if item is 3367 then lot // intricate goad
 //if item is 3368 then lot // runaeic goad 
 //if item is 3369 then lot // seraphic goad 
@@ -69,10 +69,10 @@
 //if item is 3373 then lot // divine
 //if item is 3374 then lot // heavenly
 //if item is 3375 then lot // celestial
-//if item is 3376 then lot // snarled
-if item is 3377 then pass // ethereal
-if item is 3378 then pass // mysterial
-//if item is 3379 then lot // supernal
+if item is 3376 then pass // snarled - Bow
+//if item is 3377 then lot // ethereal - Gun
+if item is 3378 then pass // mysterial - horn
+if item is 3379 then pass // supernal - Shield
 
 
 // ========== odious pop items ==========
@@ -433,9 +433,9 @@ if item is 16346 then pass //legs
 if item is 11382 then pass //feet
 if item is 16244 then pass //back
 
-//if item is 2662 then pass //head -1
-//if item is 2663 then pass //body -1
-//if item is 2664 then pass //hands -1
+if item is 2662 then pass //head -1
+if item is 2663 then pass //body -1
+if item is 2664 then pass //hands -1
 //if item is 2665 then pass //legs -1
 if item is 2666 then pass //feet -1
 
