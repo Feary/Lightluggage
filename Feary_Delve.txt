@@ -2,16 +2,19 @@
 
 //if item is 3974 then lot // airlixer
 //if item is 3975 then lot // +1
-//if item is 3974 then lot // +2
+//if item is 3976 then lot // +2
 
 //if item is 4059 then lot // Pluton
 //if item is 6180 then lot // Pluton Case 
-//if item is 4060 then pass // beitetsu
-//if item is 6181 then pass // beitetsu parcel 
-//if item is 4061 then pass // Boulder 
-//if item is 6182 then pass // Boulder Case
+//if item is 6183 then lot // Pluton Box
+//if item is 4060 then lot // beitetsu
+//if item is 6181 then lot // beitetsu parcel 
+//if item is 6184 then lot // beitetsu Box
+//if item is 4061 then lot // Boulder 
+//if item is 6182 then lot // Boulder Case
+//if item is 6185 then lot // Boulder Case
 
-//weapons
+//Delve I weapons
 if item is 20549 then pass // Rigor
 if item is 20637 then pass // dagger
 if item is 20739 then pass // Sword 
@@ -29,7 +32,9 @@ if item is 21053 then pass // Uguisumaru
 if item is 21128 then pass // Mondaha Cudgel
 if item is 28663 then pass // Steadfast Shield
 
-//boss
+// Delve II weapons
+
+//Delve I Boss
 //daquwaka
 //if item is 21256 then pass // xbow
 if item is 21052 then pass // GK
@@ -61,6 +66,21 @@ if item is 28641 then pass // Vespid Mantle
 //if item is 3981 then lot // Wing
 if item is 3980 then lot // stinger
 
+//Cailimh
+if item is 28293 then pass // Umbani boots
+if item is 27720 then pass // Umbani Cap
+if item is 28506 then pass // Andoaa Earring
+if item is 28450 then lot // Chaac Belt
+if item is 20762 then pass // Ukudyoni
+//if item is 20905 then pass // Tajabit
+if item is 20812 then pass // Izizoeksi 
+//if item is 4012 then pass // Rostrum
+if item is 4013 then lot // Crest
+	
+//Delve Gearsets
+//Xaddi 
+if item is 27869 then lot // Xaddi Mail
+
 //Mikinaak
 if item is 27776 then pass // Mikinaak helm
 if item is 27917 then pass // Mikinaak body
@@ -82,7 +102,7 @@ if item is 28059 then pass // Bokwus Gloves
 if item is 28200 then pass // Bokwus Slops
 if item is 28340 then pass // Bokwus boots
 
-// Accessory
+// Delve I Accessory
 if item is 28402 then pass // Asperity necklace
 if item is 28520 then pass // steelflash earring
 if item is 28521 then pass // Bladeborn earring
@@ -98,6 +118,9 @@ if item is 21429 then pass // Mephitis Grip
 //if item is 28582 then pass // Locus Ring
 if item is 28642 then pass // Contriver's Cape
 if item is 21455 then pass // Alternator
+
+// Delve II Accessory
+if item is 28508 then pass // Kuwunga Earring
 
 //Skirmish 
 
