@@ -6,7 +6,7 @@
 //if item is 1450,1453,1456 then lot  // 100s:  L. Jadeshell (Win), M. Silverpiece (San), 100 Byne Bill (Bas)
 //if item is 3502 then lot // Marrows
 
-// ========== Forgetten Items  ==========
+// ========== Forgotten Items  ==========
 //if item is 3493 then lot // Forgotten Thought (head)
 //if item is 3494 then lot // Forgotten Hope (body)
 //if item is 3495 then lot // Forgotten Touch (hands)

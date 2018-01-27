@@ -75,8 +75,8 @@ if item is 3383 then pass // odious strongbox
 if item is 3384 then pass // odious charm
 if item is 3385 then pass // odious backscale
 if item is 3386 then pass // odious Engraving
-if item is 3387 then pass //odious letterbox
-
+if item is 3387 then pass // odious letterbox
+ 
 // windy
 if item is 3388 then pass // Odious necklace
 if item is 3389 then pass // odious feather
